@@ -136,7 +136,7 @@ export default function EventsPage() {
       description: "A hackathon challenging students to solve real-world problems through innovative, technology-driven prototypes within a competitive, deadline-focused format.",
       detailedDescription:
         "Intelify 1.0 gathered 250 enrolled students for a dynamic hackathon where the focus was on addressing practical challenges in areas such as sustainability, urban development, and community improvement. Participants worked inteams, received a concise brief outlining a real-world problem, and were tasked to ideate and develop prototypes that offered tangible, implementable solutions. The competitive atmosphere encouraged rapid brainstorming, creative resourcefulness, and collaborative problem solving. Throughout the event, periodic checkpoints allowed teams to present their progress, share insights, and receive guidance from mentors and the coordinator. This structured feedback loop, combined with the pressure of a tight timeline, pushed the students to think critically and act decisively. The outcome was a series of innovative projects that demonstrated the potential of technology to address everyday challenges, equipping participants with valuable skills in rapid prototyping and real-world problem solving.",
-      image: "/images/intellify.jpg",
+      image: "/images/Intellify.jpg",
       category: "Hackathon",
     },
     {
