@@ -57,7 +57,7 @@ export default function EventsPage() {
       description: "A 48-hour hackathon where teams compete to build innovative robotics solutions to real-world problems.",
       detailedDescription:
         "Intellify 3.0 is an upcoming 48-hour hackathon where teams will compete to build innovative robotics solutions addressing real-world problems. Designed to ignite creativity and hands-on innovation, the event invites tech enthusiasts, engineers, and problem-solvers to brainstorm, prototype, and present groundbreaking ideas. With mentorship from industry experts, exciting challenges, and a dynamic environment, Intellify 3.0 promises to be a platform where imagination meets impact. Get ready to code, create, and compete in one of the most awaited robotics hackathons of the year!",
-      image: "/images/intellify.jpg",
+      image: "/images/Intellify.jpg",
       category: "Hackathon",
     },
     {
