@@ -100,7 +100,7 @@ export default function HomePage() {
       location: "TBA, Marwadi University",
       description:
         "A 48-hour hackathon where teams compete to build innovative robotics solutions to real-world problems.",
-      image: "images/intellify.jpg",
+      image: "images/Intellify.jpg",
       category: "Hackathon",
     },
     {
