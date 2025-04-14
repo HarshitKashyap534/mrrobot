@@ -148,7 +148,7 @@ export default function AchievementsPage() {
     },
     {
       id: 18,
-      contributors: ["Harshit Kashyap", "Ankur Mani", "Shaubhgya Vishwakarma", "Khanjan Damani", "Kushagrah Pandya", "Disha Parmar"],
+      contributors: ["Harshit Kashyap", "Ankur Mani", "Shaubhgya Vishwakarma", "Khanjan Damani"],
       year: "2024",
       eventName: "Flipkart Grid 6.0",
       achievement: "Top 50 among 20000 Team",
