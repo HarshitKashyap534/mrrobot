@@ -164,11 +164,14 @@ export function Header() {
               Projects
             </Link>
             <Link
-              href="https://store.roboticsaiclub.org"
+              href="/achievements"
               className="py-2 text-sm font-medium"
-              onClick={() => setMobileMenuOpen(false)}
+              onClick={() => {
+                setMobileMenuOpen(false)
+                handleInternalLinkClick()
+              }}
             >
-              Store
+              Achievements
             </Link>
             <Link
               href="/about"
@@ -179,16 +182,6 @@ export function Header() {
               }}
             >
               About Us
-            </Link>
-            <Link
-              href="/achievements"
-              className="py-2 text-sm font-medium"
-              onClick={() => {
-                setMobileMenuOpen(false)
-                handleInternalLinkClick()
-              }}
-            >
-              Achievements
             </Link>
             <div className="flex flex-col gap-2 pt-2 border-t">
               <Button className="rounded-full" asChild>
