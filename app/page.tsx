@@ -145,7 +145,7 @@ export default function HomePage() {
       image: "/images/bionichand.jpg",
       organizedBy: "National Hackathon and Robotics & AI Club",
       achievement: "Published Research Paper & Secured a Granted Patent",
-      contributors: ["Harshit Kashyap", "Kushagra Pandya"],
+      contributors: ["Harshit Kashyap", "Ankur Mani"],
     },
   ]
 
