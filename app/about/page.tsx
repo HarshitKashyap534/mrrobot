@@ -46,7 +46,7 @@ export default function AboutPage() {
     {
       name: "Yashrajsinh Jadeja",
       role: "Secretary",
-      image: "/images/Yashraj1.jpg",
+      image: "/images/yashraj1.jpg",
       bio: "Overseeing coordination and internal communication to ensure smooth execution of the club's initiatives",
       instagram: "https://www.instagram.com/yashrajsinh._.jadeja/",
       linkedin: "https://www.linkedin.com/in/yashrajsinh-jadeja-4097bb309/",
