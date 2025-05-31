@@ -96,7 +96,7 @@ export default function HomePage() {
   const featuredEvents = [
     {
       title: "Intellify 3.0",
-      date: "August 30-31, 2025!",
+      date: "August 30-31, 2025",
       location: "Marwadi University",
       description:
         "A 48-hour hackathon where teams compete to build innovative robotics solutions to real-world problems.",
