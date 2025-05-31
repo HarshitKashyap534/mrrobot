@@ -250,7 +250,7 @@ export default function HomePage() {
                   asChild
                 >
                   <Link href="https://unstop.com/hackathons/intellify-national-level-hackathon-30-marwadi-university-mu-gujarat-1465258?lb=r6xqGNLB&utm_medium=Share&utm_source=shortUrl" target="_blank">
-                    Intellify 3.0 is Live, Join the Hack Now!
+                    New drop: Intellify 3.0! Join now
                     <ArrowRight className="ml-2 size-4 transition-transform group-hover:translate-x-1" />
                   </Link>
                 </Button>
