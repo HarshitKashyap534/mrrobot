@@ -142,7 +142,7 @@ export function Footer({ pathname = "" }) {
           <p className="text-sm text-muted-foreground flex items-center my-4 md:my-0">
             Made with <Heart className="mx-1 size-4 text-yellow-500 fill-yellow-500" /> by&nbsp;
             <Link
-{/*               href="https://www.linkedin.com/in/harshit-kashyap-501b20300/" */}
+              href="https://www.linkedin.com"
               target="_blank"
               className="text-primary hover:text-primary/80 transition-colors"
             >
