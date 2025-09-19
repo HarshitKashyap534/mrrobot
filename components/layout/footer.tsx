@@ -97,16 +97,15 @@ export function Footer({ pathname = "" }) {
                   Store
                 </Link>
               </li> */}
-{/*               <li>
-                {/* This link was removed for security */}
-              </li> */}
-              <Link
+              <li>
+                <Link
                   href="/about"
                   className="text-muted-foreground hover:text-foreground transition-colors"
                   onClick={handleInternalLinkClick}
                 >
                   About Us
                 </Link>
+              </li>
             </ul>
           </div>
           <div className="space-y-4">
@@ -177,4 +176,3 @@ export function Footer({ pathname = "" }) {
     </footer>
   )
 }
-
