@@ -249,8 +249,8 @@ export default function HomePage() {
                   className="rounded-full h-12 px-8 text-base group bg-primary text-primary-foreground hover:bg-primary/90"
                   asChild
                 >
-                  <Link href="https://unstop.com/hackathons/intellify-national-level-hackathon-30-marwadi-university-mu-gujarat-1465258?lb=r6xqGNLB&utm_medium=Share&utm_source=shortUrl" target="_blank">
-                    New drop: Intellify 3.0! Join now
+                  <Link href="https://login.marwadiuniversity.ac.in/" target="_blank">
+                    Join Our Community
                     <ArrowRight className="ml-2 size-4 transition-transform group-hover:translate-x-1" />
                   </Link>
                 </Button>
