@@ -249,7 +249,7 @@ export default function HomePage() {
                   className="rounded-full h-12 px-8 text-base group bg-primary text-primary-foreground hover:bg-primary/90"
                   asChild
                 >
-                  <Link href="https://www.marwadiuniversity.ac.in/" target="_blank">
+                  <Link href="https://www.marwadiuniversity.ac.in" target="_blank">
                     Join Our Community
                     <ArrowRight className="ml-2 size-4 transition-transform group-hover:translate-x-1" />
                   </Link>
