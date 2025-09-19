@@ -97,9 +97,9 @@ export function Footer({ pathname = "" }) {
                   Store
                 </Link>
               </li> */}
-              <li>
+{/*               <li>
                 {/* This link was removed for security */}
-              </li>
+              </li> */}
               <Link
                   href="/about"
                   className="text-muted-foreground hover:text-foreground transition-colors"
